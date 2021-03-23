@@ -7,7 +7,7 @@ MSSV: 19522195</p>
 <p><b>Cát Văn Tài</b><br>
 MSSV: 19522147</p>
 <h2>Detail:</h2>
-<p>
-- Mục practice chứa bài làm phần bài tập hàng tuần<br>
-- Mục seminar chứa các sản phẩm liên quan đến buổi seminar của nhóm
-</p>
+<ul>
+<li>Mục practice chứa bài làm phần bài tập hàng tuần</li>
+<li>Mục seminar chứa các sản phẩm liên quan đến buổi seminar của nhóm</li>
+</ul>
