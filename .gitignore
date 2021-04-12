@@ -1,3 +1,5 @@
 .vscode
 __pycache__
 .ipynb_checkpoints
+seminar/TestCase/__pycache__
+seminar/TestCase/demo/__pycache__
