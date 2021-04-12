@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-
+import maxLenString as mLS
 class unitTesting(unittest.TestCase):
 
     # have 20 test cases, dir test case
@@ -16,54 +16,54 @@ class unitTesting(unittest.TestCase):
         print('True result: {}'.format(self.expect[testcase_ith]))
 
     # testing case ith
-    def _testCase(self, testcase_ith):
+    def checkCase(self, testcase_ith):
         arr_ith = self.arr[testcase_ith]
         x_ith = self.x[testcase_ith]
         expect_ith = self.expect[testcase_ith]
         # them ham so can kiem tra o day de test 20 cases
-        actual_ith =  self.expect[testcase_ith]# function - arr -x
+        actual_ith =  mLS.main(arr_ith, x_ith)#self.expect[testcase_ith]# function - arr -x
         self.assertEqual(expect_ith, actual_ith)
 
     def test0(self):
-        self._testCase(0)
+        self.checkCase(0)
     def test1(self):
-        self._testCase(1)
+        self.checkCase(1)
     def test2(self):
-        self._testCase(2)
+        self.checkCase(2)
     def test3(self):
-        self._testCase(3)
+        self.checkCase(3)
     def test4(self):
-        self._testCase(4)
+        self.checkCase(4)
     def test5(self):
-        self._testCase(5)
+        self.checkCase(5)
     def test6(self):
-        self._testCase(6)
+        self.checkCase(6)
     def test7(self):
-        self._testCase(7)
+        self.checkCase(7)
     def test8(self):
-        self._testCase(8)
+        self.checkCase(8)
     def test9(self):
-        self._testCase(9)
+        self.checkCase(9)
     def test10(self):
-        self._testCase(10)
+        self.checkCase(10)
     def test11(self):
-        self._testCase(11)
+        self.checkCase(11)
     def test12(self):
-        self._testCase(12)
+        self.checkCase(12)
     def test13(self):
-        self._testCase(13)
+        self.checkCase(13)
     def test14(self):
-        self._testCase(14)
+        self.checkCase(14)
     def test15(self):
-        self._testCase(15)
+        self.checkCase(15)
     def test16(self):
-        self._testCase(16)
+        self.checkCase(16)
     def test17(self):
-        self._testCase(17)
+        self.checkCase(17)
     def test18(self):
-        self._testCase(18)
+        self.checkCase(18)
     def test19(self):
-        self._testCase(19)
+        self.checkCase(19)
 
 
 unittest.main()
