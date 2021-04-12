@@ -1,17 +1,17 @@
 import numpy as np
 
-arr = 
-n = len(arr)
 pos = []
 maxlen = [0]
 maxsum = [-999999]
 result = []
-def scan(i = 0):
-    if i == n:
+
+def scan(arr_tmp, x_tmp, i = 0):
+    n_tmp = len(arr_tmp)
+    if i == n_tmp:
         sum = 0
         for j in pos:
-            sum += arr[j]
-        if sum % x == 0 and maxsum[0] < sum and len(pos) > maxlen[0]:
+            sum += arr_tmp[j]
+        if sum % x_tmp[0] == 0 and maxsum[0] < sum and len(pos) > maxlen[0]:
             maxsum[0] = sum
             maxlen[0] = len(pos)
             result.clear()
@@ -21,10 +21,20 @@ def scan(i = 0):
         for j in range(2):
             if j == 1:
                 pos.append(i)
-            scan(i + 1,)
+            scan(arr_tmp, x_tmp, i + 1)
             if j == 1:
                 pos.pop()
 
-scan()
-result = [arr[i] for i in result]
-print(result)
+def main(arr, x):
+    print(arr)
+    global result
+    global maxlen
+    global maxsum
+    global pos
+    scan(arr, x)
+    maxlen, maxsum, pos = [0] , [-999999], [] 
+    a = [arr[i] for i in result]
+    return a
+
+
+
