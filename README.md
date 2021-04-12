@@ -6,7 +6,7 @@ MSSV: 19522081</p>
 MSSV: 19522195</p>
 <p><b>Cát Văn Tài</b><br>
 MSSV: 19522147</p>
-<h2>Detail:</h2>
+<h2>Chi tiết:</h2>
 <ol>
 <li>Mục other_group_homeworks chứa các bài giải của các bài tập về nhà được các nhóm khác giao</li>
 <li>Mục seminar chứa các sản phẩm liên quan đến buổi seminar của nhóm</li>
