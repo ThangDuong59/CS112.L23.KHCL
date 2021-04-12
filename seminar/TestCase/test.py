@@ -4,7 +4,7 @@ import maxLenString as mLS
 class unitTesting(unittest.TestCase):
 
     # have 20 test cases, dir test case
-    dirtest = "../seminar/TestCase/materials/"
+    dirtest = "materials/"
     arr = np.load(dirtest + 'inputArr.npy', allow_pickle=True)
     x = np.load(dirtest + 'inputX.npy', allow_pickle= True)
     expect = np.load(dirtest + 'outputAnswer.npy', allow_pickle= True)
