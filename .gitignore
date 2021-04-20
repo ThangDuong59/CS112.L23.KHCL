@@ -1,3 +1,4 @@
 .vscode
 weekly_assignments/*.ipynb_checkpoints
 seminar/TestCase/*__pycache__
+cs112-env
