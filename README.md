@@ -1,14 +1,33 @@
 <h1>Nhóm 04</h1>
 <h2>Thành viên:</h2>
-<p><b>Nguyễn Lê Anh Quân</b><br>
-MSSV: 19522081</p>
-<p><b>Dương Đình Thắng</b><br>
-MSSV: 19522195</p>
-<p><b>Cát Văn Tài</b><br>
-MSSV: 19522147</p>
+<table style="width:100%">
+  <tr>
+    <th>STT</th>
+    <th>Họ tên</th>
+    <th>MSSV</th>
+    <th>Gmail</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>Nguyễn Lê Anh Quân</th>
+    <th>19522081</th>
+    <th>19522081@gm.uit.edu.vn</th>
+  </tr>
+  <tr>
+    <th>2</th>
+    <th>Dương Đình Thắng</th>
+    <th>19522195</th>
+    <th>19522195@gm.uit.edu.vn</th>
+  </tr>
+  <tr>
+    <th>3</th>
+    <th>Cát Văn Tài</th>
+    <th>19522147</th>
+    <th>19522147@gm.uit.edu.vn</th>
+  </tr>
+</table>
 <h2>Chi tiết:</h2>
 <ol>
-<li>Mục other_group_homeworks chứa các bài giải của các bài tập về nhà được các nhóm khác giao</li>
 <li>Mục seminar chứa các sản phẩm liên quan đến buổi seminar của nhóm</li>
-<li>Mục weekly_assigments chứa bài làm phần bài tập hàng tuần</li>
+<li>Mục weekly_assigments chứa bài làm phần bài tập trên wecode</li>
 </ol>
