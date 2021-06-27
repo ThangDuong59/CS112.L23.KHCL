@@ -6,10 +6,10 @@ Brute Force Seminar
 </p>
 <h2>Thư mục này bao gồm:</h2>
 <ol>
-    <li>File .pptx: slides bài thuyết trình</li>
-    <li>Thư mục TestCase chứa bộ test case cho các bài toán đi kèm mà nhóm đưa ra</li>
-    <li>File .py: bài giải phần bài tập về nhà mà nhóm đã giao</li>
-    <li>File .docx: biên bản buổi thảo luận</li>
+    <li>File <a href="https://github.com/ThangDuong59/CS112.L23.KHCL/blob/main/seminar/CS112-Bien-Ban-Hop.docx">CS112-Brute-Force.pptx</a>: slides bài thuyết trình</li>
+    <li>Thư mục <a href="https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/seminar/TestCase">TestCase</a> chứa bộ test case cho các bài toán đi kèm mà nhóm đưa ra</li>
+    <li>File <a href="https://github.com/ThangDuong59/CS112.L23.KHCL/blob/main/seminar/homework_answer.py">homework_answer.py</a>: bài giải phần bài tập về nhà mà nhóm đã giao</li>
+    <li>File <a href="https://github.com/ThangDuong59/CS112.L23.KHCL/blob/main/seminar/CS112-Bien-Ban-Hop.docx">CS112-Bien-Ban-Hop.docx</a>: biên bản buổi thảo luận</li>
 </ol>
 <h2>Bài tập về nhà: Cách thức submit bài làm</h2>
 <ul>
