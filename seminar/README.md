@@ -6,10 +6,10 @@ Brute Force Seminar
 </p>
 <h2>Thư mục này bao gồm:</h2>
 <ol>
-    <li>Slide thuyết trình</li>
-    <li>Bộ test case cho các bài toán đi kèm</li>
+    <li>File .pptx bài thuyết trình</li>
+    <li>Thư mục TestCase chứa bộ test case cho các bài toán đi kèm mà nhóm đưa ra</li>
     <li>File .py bài giải của phần bài tập mà nhóm đã giao</li>
-    <li>Biên bản buổi thảo luận</li>
+    <li>File .docx biên bản buổi thảo luận</li>
 </ol>
 <h2>Bài tập về nhà: Cách thức submit bài tập về nhà</h2>
 <ul>
