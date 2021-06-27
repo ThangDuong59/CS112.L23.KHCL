@@ -11,7 +11,7 @@ Brute Force Seminar
     <li>File .py: bài giải phần bài tập về nhà mà nhóm đã giao</li>
     <li>File .docx: biên bản buổi thảo luận</li>
 </ol>
-<h2>Bài tập về nhà: Cách thức submit bài tập về nhà</h2>
+<h2>Bài tập về nhà: Cách thức submit bài làm</h2>
 <ul>
     <li>Các bạn truy cập vào link sau: http://aiclub.uit.edu.vn/judge/problem/KNAPSACK</li>
     <li>Đại diện mỗi nhóm đăng kí một tài khoản với Username: CS112_L23_Nhom&lt;number&gt; (Ví dụ: CS112_L23_Nhom04)</li>
