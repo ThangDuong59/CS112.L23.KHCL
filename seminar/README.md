@@ -16,6 +16,6 @@ Brute Force Seminar
     <li>Các bạn truy cập vào link sau: http://aiclub.uit.edu.vn/judge/problem/KNAPSACK</li>
     <li>Đại diện mỗi nhóm đăng kí một tài khoản với Username: CS112_L23_Nhom&lt;number&gt; (Ví dụ: CS112_L23_Nhom04)</li>
     <li>Submit code của các bạn lên web và chờ kết quả, bài làm của các bạn là đúng khi vượt qua hết mọi test case</li>
-    <li>Kết quả bài làm của các nhóm sẽ được cập nhật lên thư mục Seminar tại Github này</li>
+    <li>Kết quả bài làm của các nhóm sẽ được cập nhật lên thư mục Seminar trong file biên bản họp tại Github này</li>
     <li><strong>Deadline: 11:59 PM 04/22/2021</strong> (Lưu ý: các bài làm submit sau deadline sẽ không được tính)</li>
 </ul>
