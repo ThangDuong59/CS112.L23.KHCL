@@ -1,6 +1,6 @@
 <h1>CS112.L23.KHCL: Nhóm 04</h1>
 <h2>Mô tả</h2>
-<p>Đây là github chứa các phần bài làm bài tập về nhà trên Wecode và phần chứa các tài liệu liên quan đến buổi thuyết trình của nhóm của bộ môn CS112 tại VNU-UIT</p>
+<p>Đây là github chứa các phần bài làm bài tập về nhà trên Wecode và các sản phẩm, tài liệu liên quan đến buổi thuyết trình của nhóm của bộ môn CS112 tại VNU-UIT</p>
 <h2>Thành viên</h2>
 <table style="width:100%">
   <tr>
