@@ -30,6 +30,6 @@
 </table>
 <h2>Chi tiết</h2>
 <ol>
-<li>Mục [seminar](https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/seminar) chứa các sản phẩm liên quan đến buổi seminar của nhóm, bao gồm slides thuyết trình</li>
-<li>Mục [weekly_assigments](https://github.com/ThangDuong59/CS112.L23.KHCL/tree/main/weekly_assignments) chứa bài làm phần bài tập trên wecode</li>
+<li>Mục [seminar](/seminar) chứa các sản phẩm liên quan đến buổi seminar của nhóm, bao gồm slides thuyết trình</li>
+<li>Mục [weekly_assigments](/weekly_assignments) chứa bài làm phần bài tập trên wecode</li>
 </ol>
