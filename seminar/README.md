@@ -8,9 +8,10 @@ Brute Force Seminar
 <ol>
     <li>Slide thuyết trình</li>
     <li>Bộ test case cho các bài toán đi kèm</li>
-    <li>Note các câu hỏi của các nhóm khác</li>
+    <li>File .py bài giải của phần bài tập mà nhóm đã giao</li>
+    <li>Biên bản buổi thảo luận</li>
 </ol>
-<h2>Cách thức submit bài tập về nhà</h2>
+<h2>Bài tập về nhà: Cách thức submit bài tập về nhà</h2>
 <ul>
     <li>Các bạn truy cập vào link sau: http://aiclub.uit.edu.vn/judge/problem/KNAPSACK</li>
     <li>Đại diện mỗi nhóm đăng kí một tài khoản với Username: CS112_L23_Nhom&lt;number&gt; (Ví dụ: CS112_L23_Nhom04)</li>
