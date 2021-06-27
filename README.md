@@ -1,7 +1,7 @@
 <h1>CS112.L23.KHCL: Nhóm 04</h1>
-<h2>Description</h2>
+<h2>Mô tả</h2>
 <p>Đây là github chứa các phần bài làm bài tập về nhà trên Wecode và phần chứa các tài liệu liên quan đến buổi thuyết trình của nhóm của bộ môn CS112 tại VNU-UIT</p>
-<h2>Thành viên:</h2>
+<h2>Thành viên</h2>
 <table style="width:100%">
   <tr>
     <th>STT</th>
@@ -28,7 +28,7 @@
     <th>19522147@gm.uit.edu.vn</th>
   </tr>
 </table>
-<h2>Chi tiết:</h2>
+<h2>Chi tiết</h2>
 <ol>
 <li>Mục seminar chứa các sản phẩm liên quan đến buổi seminar của nhóm</li>
 <li>Mục weekly_assigments chứa bài làm phần bài tập trên wecode</li>
