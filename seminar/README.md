@@ -8,7 +8,7 @@ Brute Force Seminar
 <ol>
     <li>File .pptx: slides bài thuyết trình</li>
     <li>Thư mục TestCase chứa bộ test case cho các bài toán đi kèm mà nhóm đưa ra</li>
-    <li>File .py: bài giải của phần bài tập mà nhóm đã giao</li>
+    <li>File .py: bài giải phần bài tập về nhà mà nhóm đã giao</li>
     <li>File .docx: biên bản buổi thảo luận</li>
 </ol>
 <h2>Bài tập về nhà: Cách thức submit bài tập về nhà</h2>
